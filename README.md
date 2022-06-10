@@ -1,5 +1,5 @@
 # pamta
-merupakan tugas akhir mata kuliah Pengembangan Aplikasi Mobile
+merupakan tugas akhir mata kuliah Pengembangan Aplikasi Mobile kelas B
 
 anggota kelompok 3 : 
 1.	Muhammad Afan Oktafianto	  (205150700111032)
