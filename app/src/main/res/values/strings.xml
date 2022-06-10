@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="kategori_kejahatan">
+        <item>KDRT</item>
+        <item>Pencurian</item>
+        <item>Tindakan Asusila</item>
+        <item>Pencopetan</item>
+        <item>Penjambretan</item>
+        <item>Penodongan dengan Senjata Tajam/Api</item>
+        <item>Kekerasan Fisik</item>
+        <item>Penganiayaan</item>
+        <item>Pembunuhan</item>
+    </string-array>
+</resources>

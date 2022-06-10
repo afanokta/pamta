@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FinalProject/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/FinalProject/app/src/main/res/layout/fragment_home.xml" value="0.20606884057971014" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_bukti_kejahatan.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_button.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_button_google.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_edit_foto.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_input.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_input_pengaduan.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_item.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/drawable/bg_register.xml" value="0.1125" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/activity_add_pengaduan.xml" value="0.25" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/activity_register.xml" value="0.12" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/fragment_darurat.xml" value="0.17074275362318841" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/fragment_pengaduan.xml" value="0.18" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/fragment_profil.xml" value="0.25" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/item_bantuan.xml" value="0.25" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/item_pengaduan.xml" value="0.33" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/layout/spinner_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Proyek Android/FinalProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16574074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
